@@ -1,0 +1,2 @@
+pwm.c:9:6:PWM1_Init	64	static
+pwm.c:55:6:PWM_Control	16	static

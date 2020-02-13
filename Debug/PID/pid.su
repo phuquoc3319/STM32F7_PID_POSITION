@@ -1,0 +1,13 @@
+pid.c:9:6:PID_Init	48	static
+pid.c:35:7:PID_Compute	64	static
+pid.c:99:6:PID_SetTunings	56	static
+pid.c:125:6:PID_SetSampleTime	32	static
+pid.c:136:6:PID_SetOutputLimits	40	static
+pid.c:168:6:PID_SetMode	24	static
+pid.c:180:6:PID_InitiaLize	24	static
+pid.c:194:6:PID_SetControllerDirection	24	static
+pid.c:206:8:PID_Kp	16	static
+pid.c:211:8:PID_Ki	16	static
+pid.c:216:8:PID_Kd	16	static
+pid.c:221:5:PID_GetMode	16	static
+pid.c:226:5:PID_GetDirection	16	static
